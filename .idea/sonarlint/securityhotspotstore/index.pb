@@ -41,3 +41,5 @@ R
 -ZombieKata/src/main/java/GameExploration.java,f\e\fea375a4b1b64002d8897fcf079e4225b2494f1a
 a
 1ZombieKata/src/test/java/GameExplorationTest.java,0\9\09e5eb79489349c3b7b66ef54a814d797032e805
+S
+#ZombieKata/src/main/java/Model.java,2\2\22a8ea047adc610a6b1ce8bab89c95aa60d31e49

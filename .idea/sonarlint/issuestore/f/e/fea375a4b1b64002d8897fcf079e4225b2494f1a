@@ -1,10 +1,13 @@
 
 „
-java:S4973"<Strings and Boxed types should be compared using "equals()".(·üŞ²üÿÿÿÿ8šÃŞ‰2J$ca8f0c60-31b1-4609-9b9f-454487dd3f10
+java:S4973"<Strings and Boxed types should be compared using "equals()".(·üŞ²üÿÿÿÿ8óü€ß‰2J$c143753d-c47e-43ab-bc3e-be4e7ec1c238
 „
-java:S4973"<Strings and Boxed types should be compared using "equals()".(·üŞ²üÿÿÿÿ8šÃŞ‰2J$e57fc9d6-ddb1-48ae-a334-3169b1049a11
+java:S4973"<Strings and Boxed types should be compared using "equals()".(·üŞ²üÿÿÿÿ8ôü€ß‰2J$3cfa4694-3e3a-4291-a7ed-de01b29df808
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹Ê¹8ûäÄŞ‰2J$dcd1b7e5-edac-4110-955c-bd1b547f6bb6
-r	java:S106"+Replace this use of System.out by a logger.(Ãã¬øøÿÿÿÿ8ö¿´Ş‰2J$6071db8d-2758-4cfc-9c3c-1999603c70c5
-r	java:S106"+Replace this use of System.out by a logger.(¹ğÄ¡ûÿÿÿÿ8ö¿´Ş‰2J$c3abd5c0-d1cb-4181-93ef-0bcc149f68ef
-m	java:S106""+Replace this use of System.out by a logger.(şîİ¸8÷¿´Ş‰2J$63aca580-36e6-46f5-a07f-5d72622d824a
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹Ê¹8ôü€ß‰2J$6381aac5-9059-4a36-87ee-122b744e0260
+r	java:S106"+Replace this use of System.out by a logger.(Ãã¬øøÿÿÿÿ8öü€ß‰2J$91acad06-9ed5-4300-808a-10e0025434f8
+r	java:S106"+Replace this use of System.out by a logger.(¹ğÄ¡ûÿÿÿÿ8÷ü€ß‰2J$72a45d8f-6a2e-4352-b2cd-dce176723264
+
+java:S1764#"KCorrect one of the identical sub-expressions on both sides of operator "=="(»Óú¤8÷ü€ß‰2J$42f95e8a-aa5d-48a7-9279-ce5872771ce4
+m	java:S106("+Replace this use of System.out by a logger.(şîİ¸8÷ü€ß‰2J$f2ce4abe-25b1-4d54-ad26-8b66c670ab4b
+r	java:S106-"+Replace this use of System.out by a logger.(ØÊíúıÿÿÿÿ8øü€ß‰2J$7c7d0632-6b2f-48d5-b8ed-0f89cca0b5a5
